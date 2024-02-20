@@ -1,0 +1,14 @@
+{
+    "newItem":[
+        {
+            "id":1,
+            "todo":"first",
+            "checked":false
+        },
+        {
+            "id":2,
+            "todo":"second",
+            "checked":true
+        }
+    ]
+}
